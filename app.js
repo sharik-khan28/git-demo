@@ -1,2 +1,2 @@
-const html = `<h1>version two</h1>`;
+const html = `<h1>Version Two</h1>`;
 document.querySelector("body").insertAdjacentHTML("afterend", html);
